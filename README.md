@@ -12,11 +12,8 @@ To get started with todoApp, follow these steps:
     ```bash
     git clone https://github.com/kesari99/todoApp.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd todoApp
-    ```
-3. Install the necessary dependencies:
+
+2. Install the necessary dependencies:
     ```bash
     npm install
     ```
